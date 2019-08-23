@@ -1,6 +1,9 @@
 # Passive-GIS-sync
+##TODO:
+Modify date to current dates to get the retrieve current status
 
-Links:
+
+##Links:
 
 http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
 
